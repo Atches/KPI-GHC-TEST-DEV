@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "ajv": "6.12.2",
-    "jose": "3.8.0"
+
   }
 }
