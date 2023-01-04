@@ -12,14 +12,14 @@
   },
   "issueSettings": {
     "minSeverityLevel": "LOW",
-    "issueType": "VULNERABILITY"
+    "issueType": "DEPENDENCY"
   },
   "remediateSettings": {
     "workflowRules": {
       "enabled": true
     }
   },
-    "leastVulnerablePackageSettings": {
+  "leastVulnerablePackageSettings": {
     "enabled": "true"   
   }
 }
